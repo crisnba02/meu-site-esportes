@@ -6,6 +6,7 @@ body {
   line-height: 1.6;
 }
 
+/* Portal Esportivo */
 header {
   background: #111;
   color: #ffffff;
@@ -15,6 +16,7 @@ header {
   align-items: center;
 }
 
+/* Tamanho da fonte portal esportivo */
 header h1 {
   margin: 0;
   font-size: 24px;
@@ -27,6 +29,7 @@ nav ul {
   padding: 0;
 }
 
+/* Espaçamento botões */
 nav ul li {
   margin-left: 20px;
 }
@@ -37,6 +40,7 @@ nav ul li a {
   transition: color 0.3s;
 }
 
+/* Cor para os botões */
 nav a:hover {
   color: #557dff; 
 }
