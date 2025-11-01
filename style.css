@@ -8,9 +8,9 @@ body {
 
 /* Portal Esportivo */
 header {
-  background: #111;
+  background: #111111;
   color: #ffffff;
-  padding: 15px 20px;
+  padding: 11px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -35,7 +35,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
   transition: color 0.3s;
 }
@@ -96,7 +96,7 @@ nav a:hover {
 
 /* Sobre */
 .about {
-  background: #111;
+  background: #006af5;
   padding: 40px 20px;
   text-align: center;
   color: #ffffff
